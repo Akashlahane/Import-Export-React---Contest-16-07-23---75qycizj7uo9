@@ -6,4 +6,4 @@ function Heading() {
     )
 }
 
-export default App;
+export default Heading;
